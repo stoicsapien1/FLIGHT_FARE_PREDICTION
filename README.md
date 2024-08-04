@@ -6,7 +6,7 @@ This project aims to predict flight fares based on various features of flights. 
 
 ## Dataset
 
-The dataset contains the following columns:
+The dataset contains the following columns after preprocessing.
 
 - `Total_Stops`: Number of stops in the flight
 - `Price`: The target variable (flight fare)
